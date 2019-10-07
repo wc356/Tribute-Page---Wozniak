@@ -1,0 +1,41 @@
+:root {
+  background-color: rgb(255, 255, 255);
+  font-family: 'Helvetica Neue'; 
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  max-width: 60%;
+  border-radius: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding-bottom: 5px;
+}
+
+#img-caption {
+  display: block;
+  background-color: gray;
+  margin: 0 auto;
+  max-width: 60%;
+}
+
+ul {
+  width: 45%;
+  position: relative;
+  left: 28%;
+}
+
+li {
+  display: block;
+  margin-bottom: 25px;
+  text-align: justify;
+}
+
+#more-information {
+  text-align: right;
+}
